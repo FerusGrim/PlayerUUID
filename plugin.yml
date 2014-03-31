@@ -1,0 +1,13 @@
+name: PlayerUUID
+main: io.github.ferusgrim.PlayerUUID.PlayerUUID
+website: ferusgrim.github.io
+version: 1.0
+author: FerusGrim
+description: Returns the UUID of specified player.
+commands:
+  uuid:
+    description: Use PlayerUUID.
+    usage: /uuid [player, player, etc]
+permissions:
+  playeruuid:
+    description: Allows the use of /uuid [player].
