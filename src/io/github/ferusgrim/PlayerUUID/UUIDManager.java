@@ -7,6 +7,11 @@ import com.mojang.api.profiles.HttpProfileRepository;
 import com.mojang.api.profiles.Profile;
 import com.mojang.api.profiles.ProfileCriteria;
 
+/**
+ * Copyright (C) 2014 Nicholas Badger
+ * @author FerusGrim
+ */
+
 public class UUIDManager {
 
 	public static boolean getUUID(String[] usernames, CommandSender sender) {

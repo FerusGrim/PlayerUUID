@@ -6,6 +6,11 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 
+/**
+ * Copyright (C) 2014 Nicholas Badger
+ * @author FerusGrim
+ */
+
 public class PlayerListener implements Listener {
 	
 	@EventHandler(priority = EventPriority.HIGH)

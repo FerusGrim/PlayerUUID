@@ -5,6 +5,11 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
+/**
+ * Copyright (C) 2014 Nicholas Badger
+ * @author FerusGrim
+ */
+
 public class Executor implements CommandExecutor {
 
 	@Override
